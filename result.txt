@@ -1,0 +1,12 @@
+0/1 Knapsack Dynamic Programming Results
+
+#Test 1 | Input (n W): 4 10 | Result: 150
+#Test 2 | Input (n W): 5 15 | Result: 100
+#Test 3 | Input (n W): 6 12 | Result: 150
+#Test 4 | Input (n W): 5 8 | Result: 90
+#Test 5 | Input (n W): 7 20 | Result: 122
+#Test 6 | Input (n W): 4 6 | Result: 90
+#Test 7 | Input (n W): 5 25 | Result: 47
+#Test 8 | Input (n W): 6 18 | Result: 95
+#Test 9 | Input (n W): 8 30 | Result: 290
+#Test 10 | Input (n W): 10 50 | Result: 100
