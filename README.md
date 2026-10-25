@@ -65,18 +65,4 @@ For `n` items and capacity `W`:
 - **Time:** `O(nW)` for the DP computation.
 - **Space:** `O(nW)` for the DP table, which is retained to support the table visualization.
 
-## Upload to GitHub
 
-1. Create a new empty repository on GitHub, for example `daa-0-1-knapsack`.
-2. Open a terminal in this project folder and run:
-
-```bash
-git init
-git add knapsack.c input.txt result.txt README.md
-git commit -m "Add 0/1 knapsack DP visualization in C"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/daa-0-1-knapsack.git
-git push -u origin main
-```
-
-Replace `YOUR-USERNAME` with your GitHub username. The repository URL will then be `https://github.com/YOUR-USERNAME/daa-0-1-knapsack`.
